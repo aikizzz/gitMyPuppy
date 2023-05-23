@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var scrollView: UIScrollView!
     
     //pages
-    var width:CGFloat?
+    var width:CGFloat?ppppppp
     
     
     
